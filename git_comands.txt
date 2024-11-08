@@ -1,0 +1,6 @@
+git clone  clone a git 
+git status 
+git add <new file>
+git commit -m "Comment"
+git push <origin> <branch name>
+
